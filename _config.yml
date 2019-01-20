@@ -21,7 +21,7 @@ resume_contact_telephone:       "610.613.1798"
 resume_contact_address:         "300 E Lancaster Ave Apt 608 Wynnewood, PA 19096"
 
 resume_header_contact_info:     "300 E Lancaster Ave Apt 608 Wynnewood, PA 19096 • 610.613.1798 • ahgraber@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Data Science is changing the world.  I help implement and explain it.</p>"
 
