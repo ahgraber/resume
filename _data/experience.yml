@@ -15,8 +15,7 @@
 - company: RG+A
   position: Sr. Manager, Marketing Science
   duration:  Nov, 2016 &mdash; Dec, 2018
-  summary: Selected Accomplishments:
-  <ul class="resume-item-list"><li> Implemented new analysis and reporting technique allowing novel understanding and visualization of the treatment flow in simulated prescribing decisions through use of Sankey Diagrams.</li><li>Created Excel-based share simulator, providing single tool for client instead of innumerable reports.</li></ul>
+  summary: <ul class="resume-item-list"><li> Implemented new analysis and reporting technique allowing novel understanding and visualization of the treatment flow in simulated prescribing decisions through use of Sankey Diagrams.</li><li>Created Excel-based share simulator, providing single tool for client instead of innumerable reports.</li></ul>
   
 # Account Manager
 - company: Léger
