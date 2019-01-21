@@ -1,16 +1,58 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# MS Capstone Project
+- project: Capstone Project: Natural Gas Forecasting & Segmentation
+  role: Primary Data Scientist & Analyst
+  duration: Q4 2018
+  # url: "https://github.com/ahgraber/MSBAnCapstone"
+  description: Worked with anonymized natural gas consumption data from PECO to generate improved customer segmentation; used the segmentation to develop improved short-term forecast models using weather as an external regressor in Python.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Fedorov Algorithm with Constraints
+- project: Fedorov Algorithm with Constraints
+  role: Primary Developer
+  duration: Q4 2018
+  # url: "https://github.com/ahgraber/Fedorov"
+  description: The Fedorov Algorithm is a way to iteratively identify a D-Efficient fractional factorial research design. We investigated updating the switching algorithm with penalized row- and column-constraints and developed a custom genetic algorithm as a time-efficient stochastic alternative.
+
+# Will I Be Late?
+- project: Will I Be Late? Predicting SEPTA delays
+  role: Primary Developer
+  duration: Q2 2018
+  # url: "https://github.com/ahgraber/Will-I-Be-Late-"
+  description: Predicted SEPTA lateness with 75% accuracy using ensemble (random forest, logistic regression, SVM, neural network, and naïve bayes) based on historic train data and weather information scraped from the DarkSky API.
+
+# DOTA2 & PySpark
+- project: Predicting DOTA2 match results using PySpark
+  role: Primary Developer
+  duration: Q2 2018
+  # url: "https://github.com/ahgraber/DOTA2"
+  description: Created scikit-learn pipeline in PySpark to predict outcomes of DOTA2 matches with approximately 68% accuracy using simple metrics available through the API.
+
+# Amazon Review Scores by NLP
+- project: Predicting product ratings based on reviews
+  role: Primary Developer
+  duration: Q3 2017
+  # url: "https://github.com/ahgraber/AmazonSemantics"
+  description: Built semantic dictionary and used logistic regression to predict positive/negative product review with 85% accuracy using data scraped from Amazon.
+
+# Hackathon 2018, Drexel
+- project: Hackathon - Build a chatbot
+  role: Primary Developer
+  duration: 1 day
+  # url: "https://github.com/ahgraber/Chatbot"
+  description: Created a basic chatbot using an ensemble model to understand query topics and deliver accurate canned responses. Received 2nd place. 
+
+# Hackathon 2018, Zappos
+- project: Hackathon - 
+  role: Primary Developer
+  duration: 3 days
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Developed proof-of-concept NLP topic-extraction model to run on product reviews in order to empower search, taxonomy, or feedback sorting. Received 1st place.
+  
+# # Hackathon 2019, Drexel
+# - project: Fedorov Algorithm with Constraints
+#   role: Primary Developer
+#   duration: 1 day
+#   # url: "#"
+#   description:
