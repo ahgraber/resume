@@ -3,7 +3,7 @@
 - company: GS Shop
   position: Independent Machine Learning Contractor
   duration: Q4 2018
-  summary: <ul class="resume-item-list"><li>Developed recommendation engine package in R in 3 weeks. Package supplied purchase propensity for each of >8 million users for each of >51k products.</li><li>Package supplied 2 prediction methods: Logistic Regression with Elastic Net Regularization and SVD-based Collaborative Filtering.</li></ul>
+  summary: <ul class="resume-item-list"><li>Developed recommendation engine package in R in 3 weeks. Package supplied purchase propensity for each of >8 million users for each of >51k products.</li><li>Package supplied 2 prediction methods - Logistic Regression with Elastic Net Regularization and SVD-based Collaborative Filtering.</li></ul>
 
 # Data Analytics Intern, Data Science
 - company: Zappos.com
