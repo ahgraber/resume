@@ -3,37 +3,31 @@
 - company: GS Shop
   position: Independent Machine Learning Contractor
   duration: Q4 2018
-  summary: <ul class="resume-item-list"><li>Developed recommendation engine package in R in 3 weeks. Package supplied purchase propensity for each of >8 million users for each of >51k products.</li>
-<li>Package supplied 2 prediction methods: Logistic Regression with Elastic Net Regularization and SVD-based Collaborative Filtering.</li></ul>
+  summary: <ul class="resume-item-list"><li>Developed recommendation engine package in R in 3 weeks. Package supplied purchase propensity for each of >8 million users for each of >51k products.</li><li>Package supplied 2 prediction methods: Logistic Regression with Elastic Net Regularization and SVD-based Collaborative Filtering.</li></ul>
 
 # Data Analytics Intern, Data Science
 - company: Zappos.com
   position: Data Analytics Intern, Data Science
   duration:   Jun, 2018  &mdash; Aug, 2018
-  summary: <ul class="resume-item-list"><li>Developed forecasting package in R, including parallelized forecasting, error calculation, and validation functions.</li>
-<li>Validated forecasts; financial forecast validation indicate forecasting package capable of 90% forecasting accuracy.</li></ul>
+  summary: <ul class="resume-item-list"><li>Developed forecasting package in R, including parallelized forecasting, error calculation, and validation functions.</li><li>Validated forecasts; financial forecast validation indicate forecasting package capable of 90% forecasting accuracy.</li></ul>
 
 # Sr. Manager, Marketing Science
 - company: RG+A
   position: Sr. Manager, Marketing Science
   duration:  Nov, 2016 &mdash; Dec, 2018
   summary: Selected Accomplishments:
-  <ul class="resume-item-list"><li> Implemented new analysis and reporting technique allowing novel understanding and visualization of the treatment flow in simulated prescribing decisions through use of Sankey Diagrams.</li>
-<li>Created Excel-based share simulator, providing single tool for client instead of innumerable reports.</li></ul>
+  <ul class="resume-item-list"><li> Implemented new analysis and reporting technique allowing novel understanding and visualization of the treatment flow in simulated prescribing decisions through use of Sankey Diagrams.</li><li>Created Excel-based share simulator, providing single tool for client instead of innumerable reports.</li></ul>
   
 # Account Manager
 - company: Léger
   position: Account Manager
   duration:   Oct, 2014  &mdash; Nov, 2016
-  summary: <ul class="resume-item-list"><li> Prevented loss of client by revitalizing Messaging/Sales-Force Effectiveness Tracker through improved analyses and reporting. </li>
-<li>Managed market research in multiple verticals (Biopharma, OTC Healthcare, CPG, Gaming, Travel/Leisure) from kickoff to presentation, including questionnaire development, analysis, report development, and presentation.</li></ul>
+  summary: <ul class="resume-item-list"><li> Prevented loss of client by revitalizing Messaging/Sales-Force Effectiveness Tracker through improved analyses and reporting. </li><li>Managed market research in multiple verticals (Biopharma, OTC Healthcare, CPG, Gaming, Travel/Leisure) from kickoff to presentation, including questionnaire development, analysis, report development, and presentation.</li></ul>
 
 # Various - RGA
 - company: RG+A
   position: Various
   duration:  Aug, 2006 &mdash; Sept, 2014
   summary: Selected Accomplishments:
-  <ul class="resume-item-list"><li> Research Manager</li>
-<li>Research Analyst</li>
-<li>Desktop Engineer</li></ul>
+  <ul class="resume-item-list"><li> Research Manager</li><li>Research Analyst</li><li>Desktop Engineer</li></ul>
  
