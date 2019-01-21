@@ -46,8 +46,8 @@ resume_section_interests:       true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/ahgraber"
-  resume_github_url:            "https://github.com/ahgraber/resume"
-  resume_twitter_url:           "http://twitter.com/namnnumbr"
+  resume_github_url:            "https://github.com/ahgraber"
+  # resume_twitter_url:           "http://twitter.com/namnnumbr"
   resume_medium_url:            "https://medium.com/@ahgraber"
   # resume_facebook_url:          "insert Facebook URL here"
   # resume_instagram_url:         "insert your Instagram URL here"
