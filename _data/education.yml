@@ -3,17 +3,17 @@
   uni: Drexel University, LeBow College of Business  
   year: 2017 &mdash; 2019  
   awards:  
-    - Modeling Concentration
-    - 4.0 GPA   
+    - award: Modeling Concentration
+    - award: 4.0 GPA   
   summary: Focus on Data Science Algorithms, Analytics, and Interpretation  
   
 - degree: Bachelor of Arts  
   uni: Bowdoin College  
   year: 2005 &mdash; 2009  
   awards:  
-    - Major - International Relations  
-    - Major - Comparative Religion  
-    - Minor - Computer Science  
+    - award: Major - International Relations  
+    - award: Major - Comparative Religion  
+    - award: Minor - Computer Science  
   summary: Dual major + minor, varsity athlete, club sport leader  
 
 - degree: High School Diploma
